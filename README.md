@@ -1,6 +1,6 @@
 ### Olá! Me chamo Jean Michel Kremer Oviedo. 🖐️
 
-#### Apaixonado por tecnologia, e venho me especializando em desenvolvimento Mobile.
+#### Apaixonado por tecnologia
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-michel-kremer-oviedo/)
 
