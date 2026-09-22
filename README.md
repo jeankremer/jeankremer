@@ -47,14 +47,6 @@ Experiência com desenvolvimento e integrações envolvendo:
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeankremer&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeankremer&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🔗 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean_Kremer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-kremer/)
